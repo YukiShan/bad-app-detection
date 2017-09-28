@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GooglePlayCrawler">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/install/googlePlayScript/GooglePlayCrawler.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
